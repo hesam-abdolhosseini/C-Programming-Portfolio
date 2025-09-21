@@ -1,13 +1,21 @@
 #include <stdio.h>
 
+/**
+ * @file bubble_sort.c
+ * @author Hesam Abdolhosseini
+ * @brief Bubble sort demonstration with array printing.
+ *
+ * Written for teaching associate students and portfolio demonstration.
+ */
+
+// Bubble Sort: ساده‌ترین الگوریتم مرتب‌سازی برای آموزش
+
+
 // Function Prototype
 void printArray(int array[], int size);
 void bubbleSort(int array[], int size);
 void swap(int array[], int i, int j);
 
-/**
- * @brief Entry point of the program. Demonstrates bubble sort on a sample array.
- */
 int main(void)
 {
     // Sample data array
@@ -35,7 +43,7 @@ int main(void)
 }
 
 /**
- * @brief Printing the array
+ * @brief Prints the elements of an array
  * 
  * @param array The array to print.
  * @param size Number of elements in the array.
@@ -51,7 +59,7 @@ void printArray(int array[], int size)
 }
 
 /**
- * @brief Sort an array using bubble sort algorithm.
+ * @brief Sorts an array using the bubble sort algorithm.
  * 
  * @param array The array to sort.
  * @param size Number of elements in the array.
@@ -67,7 +75,7 @@ void bubbleSort(int array[], int size)
             }
         }
         if(!swapped) {
-            break; // Array is already sorted
+            break; // stop early if no swaps were made
         }
     }
 }
@@ -75,7 +83,7 @@ void bubbleSort(int array[], int size)
 /**
  * @brief Swaps two elements in an array.
  * 
- * @param array The array to sort.
+ * @param array The array containing the elements to swap.
  * @param i Index of the first element.
  * @param j Index of the second element.
  */
