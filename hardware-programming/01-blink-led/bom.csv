@@ -1,0 +1,6 @@
+Part Number,Component Name,Quantity,Description,Notes/Link
+R1,Resistor 220Ω,1,Limits LED current,Standard 1/4W resistor
+LED1,LED (Red),1,Indicator light,5mm LED
+U1,Arduino UNO R3,1,Microcontroller board,Official Arduino board
+Wires,Jumper wires,5,Male-to-male,For breadboard connections
+Breadboard,Mini breadboard,1,Prototyping board,Any standard breadboard

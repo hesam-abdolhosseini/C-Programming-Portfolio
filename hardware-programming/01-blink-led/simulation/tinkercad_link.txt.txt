@@ -1,0 +1,4 @@
+# Tinkercad Simulation Link for 01-blink-led
+# Open this link in your browser to view and run the simulation.
+
+https://www.tinkercad.com/things/lj6b6Mmi4RG/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=S_Ks8kdO9jP-tfeLwXR3jNHwxXCkFaEYipfqaN3hgiQ
