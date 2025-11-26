@@ -6,9 +6,8 @@ Organized from basics to embedded demos, with bilingual notes (English/Persian).
 ---
 
 ## Table of Contents
-- **basics/**  Introductory C programs (currently includes 2 examples)
-- **embedded/**  Placeholder for future hardware programming and IoT demos
-- *(teaching/ will be added later as content grows)*
+- **basics/**  Introductory C programs
+- **hardware-programming/**  Arduino-based hardware labs with code, wiring diagrams, BOMs, bilingual guides, and reproducible Tinkercad simulations
 
 ---
 

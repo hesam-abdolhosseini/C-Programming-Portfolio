@@ -16,18 +16,22 @@ This folder hosts step-by-step Arduino projects with code, wiring figures, and v
 4. **Upload:** Use Arduino IDE; select the correct board/port; upload `code/*.ino`.
 5. **Verify:** Run the tests in `docs/lab_guide.md` (expected behavior + troubleshooting).
 
-...
+---
+
 
 # آزمایش‌های برنامه‌نویسی سخت‌افزار (بر پایه آردوینو)
 
 در این پوشه پروژه‌های گام‌به‌گام آردوینو با کد، شکل‌های سیم‌کشی و شبیه‌سازی‌های مجازی قرار دارد تا دانشجویان بتوانند آزمایش‌ها را روی سیستم خود بازتولید کنند. همه مدارها در [Tinkercad](https://www.tinkercad.com/) بررسی شده‌اند.
 
 ## محتوا
+<div dir="rtl">
+
 - **01-blink-led:** خروجی دیجیتال (LED و تأخیر).
 - **02-button-input:** ورودی دیجیتال با پول‌آپ/پول‌دان.
 .
 .
 .
+</div>
 
 ## روش استفاده
 1. **دانلود:** پوشه پروژه را باز کنید و فایل‌ها را دانلود یا با `git clone` دریافت کنید.
