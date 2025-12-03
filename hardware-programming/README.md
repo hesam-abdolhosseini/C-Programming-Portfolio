@@ -4,7 +4,7 @@ This folder hosts step-by-step Arduino projects with code, wiring figures, and v
 
 ## Contents
 - **01-blink-led:** Digital output basics (LED, delay).
-- **02-button-input:** Digital input with pull-up/pull-down.
+- **02-analog-read-serial:** Analog input using a potentiometer, values printed to Serial Monitor.
 .
 .
 .
@@ -18,7 +18,6 @@ This folder hosts step-by-step Arduino projects with code, wiring figures, and v
 
 ---
 
-
 # آزمایش‌های برنامه‌نویسی سخت‌افزار (بر پایه آردوینو)
 
 در این پوشه پروژه‌های گام‌به‌گام آردوینو با کد، شکل‌های سیم‌کشی و شبیه‌سازی‌های مجازی قرار دارد تا دانشجویان بتوانند آزمایش‌ها را روی سیستم خود بازتولید کنند. همه مدارها در [Tinkercad](https://www.tinkercad.com/) بررسی شده‌اند.
@@ -28,6 +27,7 @@ This folder hosts step-by-step Arduino projects with code, wiring figures, and v
 
 - **01-blink-led:** خروجی دیجیتال (LED و تأخیر).
 - **02-button-input:** ورودی دیجیتال با پول‌آپ/پول‌دان.
+- **02-analog-read-serial:** ورودی آنالوگ با پتانسیومتر و نمایش مقادیر در مانیتور سریال.
 .
 .
 .
