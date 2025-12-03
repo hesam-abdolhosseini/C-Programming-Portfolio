@@ -1,0 +1,4 @@
+# Tinkercad Simulation Link for 02-analog-read-serial
+# Open this link in your browser to view and run the simulation.
+
+https://www.tinkercad.com/things/kzjHiYTfJG8/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=y_tvPCO_HnjlG5MFvFuOrQnTwm3zoytmNdb0YNUICyI

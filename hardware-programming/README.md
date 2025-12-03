@@ -26,7 +26,6 @@ This folder hosts step-by-step Arduino projects with code, wiring figures, and v
 <div dir="rtl">
 
 - **01-blink-led:** خروجی دیجیتال (LED و تأخیر).
-- **02-button-input:** ورودی دیجیتال با پول‌آپ/پول‌دان.
 - **02-analog-read-serial:** ورودی آنالوگ با پتانسیومتر و نمایش مقادیر در مانیتور سریال.
 .
 .
