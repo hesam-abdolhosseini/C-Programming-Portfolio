@@ -1,7 +1,3 @@
-Component,Quantity,Specification,Notes
-Arduino UNO,1,Standard board,Main microcontroller
-Potentiometer,1,10kΩ linear,Used for analog input
-Resistor,1,220Ω,Optional for wiring stability
-Breadboard,1,Half-size or full-size,For circuit assembly
-Jumper wires,5,Male-to-male,For connections (GND, 5V, A0)
-USB cable,1,Type A to B,For programming and power
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"Rpot1",1,"250 kΩ Potentiometer"

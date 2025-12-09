@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+Arduino UNO,1,Main microcontroller board
+Pushbutton,1,Momentary switch for digital input
+Resistor,1,10kΩ pull-down resistor
+Breadboard,1,For circuit assembly
+Jumper wires,5,Male-to-male connections (5V, GND, pin 2)
+USB cable,1,Type A to B for programming and power
