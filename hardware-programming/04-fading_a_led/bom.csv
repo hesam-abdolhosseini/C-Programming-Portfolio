@@ -1,7 +1,7 @@
 ﻿Name,Quantity,Component
 Arduino UNO,1,Main microcontroller board
-Pushbutton,1,Momentary switch for digital input
-Resistor,1,10kΩ pull-down resistor
+LED,1,Standard 5mm LED (any color)
+Resistor,1,220Ω current-limiting resistor
 Breadboard,1,For circuit assembly
-Jumper wires,5,Male-to-male connections
+Jumper wires,4,Male-to-male connections
 USB cable,1,Type A to B for programming and power
