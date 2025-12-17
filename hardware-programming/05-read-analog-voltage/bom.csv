@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+Arduino UNO,1,Main microcontroller board
+Potentiometer,1,10kΩ variable resistor
+Breadboard,1,For circuit assembly
+Jumper wires,3,Male-to-male connections
+USB cable,1,Type A to B for programming and power

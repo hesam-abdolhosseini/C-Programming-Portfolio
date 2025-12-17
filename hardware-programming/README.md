@@ -5,6 +5,9 @@ This folder hosts step-by-step Arduino projects with code, wiring figures, and v
 ## Contents
 - **01-blink-led:** Digital output basics (LED, delay).
 - **02-analog-read-serial:** Analog input using a potentiometer, values printed to Serial Monitor.
+- **03-digital-read-serial:** Digital input with a pushbutton, values printed to Serial Monitor.
+- **04-fading-a-led:** Demonstrates analog output (PWM) to fade an LED in and out.
+- **05-read-analog-voltage:** Reads an analog input, converts values to voltage, and prints to Serial Monitor.
 .
 .
 .
@@ -27,6 +30,9 @@ This folder hosts step-by-step Arduino projects with code, wiring figures, and v
 
 - **01-blink-led:** خروجی دیجیتال (LED و تأخیر).
 - **02-analog-read-serial:** ورودی آنالوگ با پتانسیومتر و نمایش مقادیر در مانیتور سریال.
+- **03-digital-read-serial:** ورودی دیجیتال با کلید فشاری و نمایش وضعیت در مانیتور سریال.
+- **04-fading-a-led:** استفاده از خروجی آنالوگ (PWM) برای کم و زیاد شدن تدریجی نور LED.
+- **05-read-analog-voltage:** خواندن ورودی آنالوگ، تبدیل به ولتاژ و نمایش در مانیتور سریال.
 .
 .
 .
