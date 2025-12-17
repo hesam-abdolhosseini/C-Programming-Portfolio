@@ -1,4 +1,4 @@
 # Tinkercad Simulation Link for 06-spaceship-interface
 # Open this link in your browser to view and run the simulation.
 
-https://www.tinkercad.com/
+https://www.tinkercad.com/things/4uOsxaEBBg6/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=sMIaI6U9IyGlAZPhYU5M68hHtBh5oK3T98KV49ceey8
