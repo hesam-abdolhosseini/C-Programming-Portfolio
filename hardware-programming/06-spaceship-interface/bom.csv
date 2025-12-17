@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+Arduino UNO,1,Main microcontroller board
+LED (Green),1,Indicator LED
+LED (Red),2,Indicator LEDs
+Resistor,3,220Ω current-limiting resistors
+Pushbutton,1,Momentary switch
+Resistor,1,10kΩ pull-down resistor
+Breadboard,1,For circuit assembly
+Jumper wires,8,Male-to-male connections
+USB cable,1,Type A to B for programming and power
