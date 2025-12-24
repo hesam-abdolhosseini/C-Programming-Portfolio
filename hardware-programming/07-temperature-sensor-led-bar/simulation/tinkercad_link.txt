@@ -1,0 +1,4 @@
+# Tinkercad Simulation Link for 07-temperature-sensor-led-bar
+# Open this link in your browser to view and run the simulation.
+
+https://www.tinkercad.com/things/6Wz5NveIln1/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=kod6TKr4cMPU36Uy706JJh1fodQUjGfBqG88DQLm2Gs
