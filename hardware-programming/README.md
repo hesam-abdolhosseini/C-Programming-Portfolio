@@ -8,9 +8,12 @@ This folder hosts step-by-step Arduino projects with code, wiring figures, and v
 - **03-digital-read-serial:** Digital input with a pushbutton, values printed to Serial Monitor.
 - **04-fading-a-led:** Demonstrates analog output (PWM) to fade an LED in and out.
 - **05-read-analog-voltage:** Reads an analog input, converts values to voltage, and prints to Serial Monitor.
+- **06-spaceship-interface:** Digital input/output interface using a pushbutton and multiple LEDs.
+- **07-temperature-sensor-led-bar:** Reads temperature from TMP36 sensor and visualizes it using a 3‑LED bar.
 .
 .
 .
+
 
 ## How to use
 1. **Download:** Open each project folder and click “Download ZIP” or use `git clone`.
@@ -33,6 +36,8 @@ This folder hosts step-by-step Arduino projects with code, wiring figures, and v
 - **03-digital-read-serial:** ورودی دیجیتال با کلید فشاری و نمایش وضعیت در مانیتور سریال.
 - **04-fading-a-led:** استفاده از خروجی آنالوگ (PWM) برای کم و زیاد شدن تدریجی نور LED.
 - **05-read-analog-voltage:** خواندن ورودی آنالوگ، تبدیل به ولتاژ و نمایش در مانیتور سریال.
+- **06-spaceship-interface:** رابط ورودی/خروجی دیجیتال با کلید فشاری و چند LED.
+- **07-temperature-sensor-led-bar:** خواندن دما از حسگر TMP36 و نمایش آن با نوار LED سه‌تایی.
 .
 .
 .
