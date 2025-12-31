@@ -1,0 +1,4 @@
+# Tinkercad Simulation Link for 08-color-mixing-lamp 
+# Open this link in your browser to view and run the simulation.
+
+https://www.tinkercad.com/things/d8WDISr6Qhh/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=kdv7Uz9dQTbdVHcLbkq6tZyNkNQheRIa6bd9ZefKSAU
